@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1cd7bd1e-09c2-4a13-a4c4-ea6179a82fb3" name="WaWaWeb" url="http://ftp.strato.de">
+        <fileTransfer host="ftp.strato.de" port="21" rootFolder="/WordPress_03">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
